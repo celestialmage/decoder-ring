@@ -122,10 +122,6 @@ const substitutionModule = (function () {
     }
   }
 
-  console.log(
-    substitution("You are an excellent spy", "xoyqmcgrukswaflnthdjpzibev")
-  );
-
   return {
     substitution,
   };
